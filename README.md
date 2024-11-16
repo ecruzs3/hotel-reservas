@@ -25,9 +25,10 @@ Esto levantará el backend en http://localhost:8080.
 
 Frontend - React
 1. Instalación de Dependencias
+cd hotel-reservas-frontend
 npm install
 
-2. Ejecutar el Frontend
+3. Ejecutar el Frontend
 Para iniciar la aplicación de React, usa el siguiente comando:
 
 npm start
