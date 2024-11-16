@@ -1,0 +1,6 @@
+com\hotelreservas\repository\ReservaRepository.class
+com\hotelreservas\service\ReservaService.class
+com\hotelreservas\config\WebConfig.class
+com\hotelreservas\model\Reserva.class
+com\hotelreservas\controller\ReservaController.class
+com\hotelreservas\HotelReservasApplication.class
